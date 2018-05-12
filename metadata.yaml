@@ -1,4 +1,5 @@
 _repo: A-Voyage-Round-the-World-from-1806-to-1812-In-Which-Japan-Kamschatka-the-Aleutian-islands-and__46468
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -9,15 +10,15 @@ contributor:
       url: http://www.gutenberg.org/2009/agents/1294
 covers:
 - cover_type: archival
-  image_path: 46468/46468-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46468-h/images/cover.jpg
 creator:
   author:
     agent_name: Campbell, Archibald
     gutenberg_agent_id: '43806'
     url: http://www.gutenberg.org/2009/agents/43806
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46468#A-Voyage-Round-the-World-from-1806-to-1812-In-Which-Japan-Kamschatka-the-Aleutian-islands-and_
 gutenberg_issued: '2014-08-01'
 gutenberg_type: Text
 identifiers:
