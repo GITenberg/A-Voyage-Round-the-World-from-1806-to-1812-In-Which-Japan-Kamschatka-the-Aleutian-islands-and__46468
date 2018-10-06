@@ -27,6 +27,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'A Voyage Round the World, from 1806 to 1812
 
   In Which Japan, Kamschatka, the Aleutian islands, and the
